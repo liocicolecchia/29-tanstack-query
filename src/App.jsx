@@ -2,7 +2,7 @@ import {
   Navigate,
   RouterProvider,
   createBrowserRouter,
-} from 'react-router-dom';
+} from 'react-router';
 
 import Events from './components/Events/Events.jsx';
 import EventDetails from './components/Events/EventDetails.jsx';

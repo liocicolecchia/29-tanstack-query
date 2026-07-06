@@ -1,4 +1,4 @@
-import { Link, useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router';
 
 import Modal from '../UI/Modal.jsx';
 import EventForm from './EventForm.jsx';
